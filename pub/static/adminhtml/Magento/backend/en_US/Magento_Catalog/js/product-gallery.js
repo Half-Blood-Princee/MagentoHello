@@ -1,0 +1,1 @@
+/var/www/html/magentoA/vendor/magento/module-catalog/view/adminhtml/web/js/product-gallery.js

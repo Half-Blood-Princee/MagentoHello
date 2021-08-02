@@ -1,0 +1,1 @@
+/var/www/html/magentoA/lib/web/jquery/jquery.tabs.js
